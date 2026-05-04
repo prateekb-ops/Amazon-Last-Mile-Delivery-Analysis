@@ -1,3 +1,4 @@
+![Dashboard Preview](dashboard_preview.png)
 # Amazon Last-Mile Delivery Performance & Defect Analysis
 
 ## Project Overview
